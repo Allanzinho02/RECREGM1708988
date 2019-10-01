@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
 
-namespace RECREGM1709518
+namespace RECREGM1708988
 {
     public class Banco
     {
